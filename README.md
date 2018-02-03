@@ -11,16 +11,16 @@ Messagerie instantannée réalisée dans le cours d'Android dans le cadre de la 
   
 ### Installation:
   
-1. Télécharger l'APK [release](ressources/app/build/outputs/apk/debug/app-debug.apk)
+1. Télécharger l'APK [release](release/release.apk)
 2. Transferer l'APK sur votre mobile android
 3. executer l'APK
 
 ### Capture d'écrans:
 
-![screen1](TP_Android/ressources/screenshot1.JPG )
-![screen2](/ressources/screenshot2.png)
-![screen3](ressources/screenshot3.png)
-![screen4](ressources/screenshot4.png)
+![screen1](ressources/screenshot1.jpg )
+![screen2](ressources/screenshot2.jpg)
+![screen3](ressources/screenshot3.jpg)
+![screen4](ressources/screenshot4.jpg)
 
 
 ##### License:[GPLv3](https://github.com/RumblingBee/TP_Android/tree/master/ressources/LICENSE)
