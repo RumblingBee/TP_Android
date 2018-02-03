@@ -17,10 +17,10 @@ Messagerie instantannée réalisée dans le cours d'Android dans le cadre de la 
 
 ### Capture d'écrans:
 
-![screen1](ressources/screenshot1.jpg )
-![screen2](ressources/screenshot2.jpg)
-![screen3](ressources/screenshot3.jpg)
-![screen4](ressources/screenshot4.jpg)
+![screen1](ressources/screenshot1.JPG)
+![screen2](ressources/screenshot2.JPG)
+![screen3](ressources/screenshot3.JPG)
+![screen4](ressources/screenshot4.JPG)
 
 
-##### License:[GPLv3](https://github.com/RumblingBee/TP_Android/tree/master/ressources/LICENSE)
+##### License:[GPLv3](https://github.com/RumblingBee/TP_Android/blob/master/LICENSE)
