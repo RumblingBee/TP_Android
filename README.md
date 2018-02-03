@@ -17,8 +17,8 @@ Messagerie instantannée réalisée dans le cours d'Android dans le cadre de la 
 
 ### Capture d'écrans:
 
-![screen1](ressources/screenshot1.png)
-![screen2](ressources/screenshot2.png)
+![screen1](TP_Android/ressources/screenshot1.JPG )
+![screen2](/ressources/screenshot2.png)
 ![screen3](ressources/screenshot3.png)
 ![screen4](ressources/screenshot4.png)
 
